@@ -14,7 +14,7 @@ const App = () => {
             <span className="navbar-toggler-icon"></span>
           </button>
           <div className="collapse navbar-collapse" id="navy">
-            <a className="navbar-brand text-danger" href="/"><em><span className="text-success">R</span>eactive <span className="text-success">W</span>eather</em></a>
+            <a className="navbar-brand text-danger" href="/some-reactive-weather"><em><span className="text-success">R</span>eactive <span className="text-success">W</span>eather</em></a>
             <ul className="navbar-nav me-auto mb-2 mb-lg-0">
               <li className="nav-item">
                 <Link className="nav-link" to={"/city/bucharest,ro"}>Bucharest</Link>
