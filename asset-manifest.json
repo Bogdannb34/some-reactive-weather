@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/some-reactive-weather/static/js/main.4b0f2b83.chunk.js",
+    "main.js.map": "/some-reactive-weather/static/js/main.4b0f2b83.chunk.js.map",
+    "runtime-main.js": "/some-reactive-weather/static/js/runtime-main.ee534886.js",
+    "runtime-main.js.map": "/some-reactive-weather/static/js/runtime-main.ee534886.js.map",
+    "static/css/2.862b2f9f.chunk.css": "/some-reactive-weather/static/css/2.862b2f9f.chunk.css",
+    "static/js/2.899b2903.chunk.js": "/some-reactive-weather/static/js/2.899b2903.chunk.js",
+    "static/js/2.899b2903.chunk.js.map": "/some-reactive-weather/static/js/2.899b2903.chunk.js.map",
+    "index.html": "/some-reactive-weather/index.html",
+    "precache-manifest.d8e96f5d3a6e3bbecb410f897d1c978f.js": "/some-reactive-weather/precache-manifest.d8e96f5d3a6e3bbecb410f897d1c978f.js",
+    "service-worker.js": "/some-reactive-weather/service-worker.js",
+    "static/css/2.862b2f9f.chunk.css.map": "/some-reactive-weather/static/css/2.862b2f9f.chunk.css.map",
+    "static/js/2.899b2903.chunk.js.LICENSE.txt": "/some-reactive-weather/static/js/2.899b2903.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ee534886.js",
+    "static/css/2.862b2f9f.chunk.css",
+    "static/js/2.899b2903.chunk.js",
+    "static/js/main.4b0f2b83.chunk.js"
+  ]
+}
